@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-api",
+  "version": "1.0.0",
+  "description": "Basic REST API for use with chatbots",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "None"
+  },
+  "author": "PoodleSlayer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
